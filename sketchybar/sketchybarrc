@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Import the Bar
+source "$HOME/.config/sketchybar/bar.sh"
+
+# Import the Item Groups
+ITEM_GROUPS="$HOME/.config/sketchybar/groups"
+
+# LEFT ITEMS
+source "$ITEM_GROUPS/itemsl.sh"
+
+# RIGHT ITEMS
+source "$ITEM_GROUPS/itemsr.sh"
+
+# Live Refresh and Update of the Bar
+sketchybar --hotload true
+sketchybar --update
