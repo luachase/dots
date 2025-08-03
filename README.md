@@ -5,11 +5,13 @@
 
 <br>
 
-<img width="2940" height="1912" alt="zentheme" src="https://github.com/user-attachments/assets/82a9d18d-d73b-425f-84e4-ac765efd6d2d" />
+<img width="2940" height="1912" alt="sketchybar" src="https://github.com/user-attachments/assets/b45dd918-4c5b-4f20-9e7b-cdad1e9fd79f" />
+
 
 <br>
 
-<img width="2940" height="1912" alt="screen" src="https://github.com/user-attachments/assets/e74eab3c-6a7a-495e-9840-eb4b92adfe32" />
+<img width="2940" height="1912" alt="screen" src="https://github.com/user-attachments/assets/7934bd6b-af8c-47fe-ba17-fb79114333b0" />
+
 
 
 ---
