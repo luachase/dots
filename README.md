@@ -1,7 +1,7 @@
  <h1 align=center>
   ❗❗❗ THESE DOTS ARE OUTDATED! ❗❗❗
  </h1>
-<p align=center><em>I may update the dots to include my other configurations as well in the future.</em></p>
+
 
 <br>
 
